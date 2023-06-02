@@ -30,7 +30,7 @@ export const Statistic = ({
     </StatisticList>
   );
 };
-
+//
 Statistic.propTypes = {
   good: PropTypes.number,
   neutral: PropTypes.number,
